@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f5f3fb"/>
+  <rect x="0" y="0" width="1200" height="64" fill="#4528ad"/>
+  <text x="32" y="40" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="bold">Almacenes Mega Oferta — Wireframe / Mockup UX/UI (Etapa 1 &amp; Etapa 3)</text>
+  <rect x="32" y="92" width="740" height="220" rx="14" fill="#ffffff" stroke="#e7e3f2" stroke-width="2"/>
+  <text x="56" y="135" fill="#5d3fd3" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="bold">CATÁLOGO DIGITAL + API EXTERNA (DÓLARES / TIPOS DE CAMBIO &amp; PROMOS)</text>
+  <text x="56" y="175" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="bold">Muebles y Hogar con React + API Externa</text>
+  <text x="56" y="212" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="16">Búsqueda en tiempo real, filtros por categoría, carrito persistente y checkout.</text>
+  <rect x="796" y="92" width="372" height="220" rx="14" fill="#ffffff" stroke="#e7e3f2" stroke-width="2"/>
+  <text x="820" y="135" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="bold">Panel Admin &amp; Chart.js</text>
+  <text x="820" y="172" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">• Gráfica de barras: Stock por categoría</text>
+  <text x="820" y="200" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">• Gráfica doughnut: Pedidos por estado</text>
+  <text x="820" y="228" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">• Reportes y exportación CSV (Excel/Sheets)</text>
+  <rect x="32" y="340" width="364" height="336" rx="14" fill="#ffffff" stroke="#e7e3f2" stroke-width="2"/>
+  <text x="56" y="380" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="bold">Card Producto 01</text>
+  <rect x="56" y="400" width="316" height="140" rx="10" fill="#eeeaff"/>
+  <text x="165" y="478" fill="#4528ad" font-family="Inter, Arial, sans-serif" font-size="36">🛋️</text>
+  <text x="56" y="572" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="bold">Sala Moderna — $450.00</text>
+  <text x="56" y="600" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">Disponible · Agregar al carrito (SweetAlert2)</text>
+  <rect x="418" y="340" width="364" height="336" rx="14" fill="#ffffff" stroke="#e7e3f2" stroke-width="2"/>
+  <text x="442" y="380" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="bold">Card Producto 02</text>
+  <rect x="442" y="400" width="316" height="140" rx="10" fill="#eeeaff"/>
+  <text x="552" y="478" fill="#4528ad" font-family="Inter, Arial, sans-serif" font-size="36">🛏️</text>
+  <text x="442" y="572" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="bold">Cama Matrimonial — $350.00</text>
+  <text x="442" y="600" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">Disponible · Validación en tiempo real</text>
+  <rect x="804" y="340" width="364" height="336" rx="14" fill="#ffffff" stroke="#e7e3f2" stroke-width="2"/>
+  <text x="828" y="380" fill="#202033" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="bold">Flujo Carrito, Pedido y Reportes</text>
+  <text x="828" y="420" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">1. Catálogo (API externa + filtros)</text>
+  <text x="828" y="452" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">2. Carrito (ajuste de cantidades + stock)</text>
+  <text x="828" y="484" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">3. Pedido (validación + WhatsApp)</text>
+  <text x="828" y="516" fill="#6d6d80" font-family="Inter, Arial, sans-serif" font-size="14">4. Admin CRUD + Inventario + CSV</text>
+  <text x="828" y="560" fill="#5d3fd3" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="bold">Licencia CC BY 4.0 · GitHub Pages / Netlify / Vercel</text>
+</svg>
